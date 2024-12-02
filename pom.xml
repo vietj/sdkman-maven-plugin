@@ -24,7 +24,7 @@
     <maven.compiler.target>1.8</maven.compiler.target>
     <maven.version>3.6.3</maven.version>
     <mavenPluginPluginVersion>3.4</mavenPluginPluginVersion>
-    <jackson.version>2.11.3</jackson.version>
+    <jackson.version>2.12.7.1</jackson.version>
     <local.repository.path>${project.build.directory}/repository</local.repository.path>
     <nexus.url>https://oss.sonatype.org</nexus.url>
     <project.repository>sdkman/sdkman-vendor-maven-plugin</project.repository>
